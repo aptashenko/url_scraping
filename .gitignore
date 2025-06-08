@@ -1,0 +1,40 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.sqlite3
+.env
+.venv/
+venv/
+
+# Playwright
+playwright/.cache/
+
+# Logs
+*.log
+
+# Node.js
+node_modules/
+dist/
+.vite/
+
+# Docker
+*.pid
+*.db
+docker-volume/
+coverage/
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Output files
+backend/knowledge_base.json
+backend/links_buffer.json
+frontend/package-lock.json
+frontend/node_modules
