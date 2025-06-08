@@ -17,6 +17,7 @@ A web application built with Vue.js and Python + Playwright that allows you to:
 - Docker Compose
 
 Verify installation:
+<br><br>
 *docker -v*
 *docker compose version*
 
