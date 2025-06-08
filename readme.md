@@ -17,15 +17,16 @@ A web application built with Vue.js and Python + Playwright that allows you to:
 - Docker Compose
 
 Verify installation:
-<br><br>
-*docker -v*
-*docker compose version*
+<br>
+*[docker -v]*
+<br>
+*[docker compose version]*
 
 2. Clone the Repository
 
 3. Build and Run the Project
 
-*docker compose up --build*
+*[docker compose up --build]*
 
 - Backend: http://localhost:8000
 - Frontend: http://localhost:5173
